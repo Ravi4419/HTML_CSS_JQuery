@@ -8,7 +8,7 @@ Add More HTML, CSS, Jquey (Recommended for beginners)
 
 
 
-Hey Guys You do PR on Different types of Sorting Algorithm in HTML, CSS, Jquey , So you can successfully participated in Hacktoberfest 2022
+Hey Guys You do PR on  HTML, CSS, Jquey , So you can successfully participated in Hacktoberfest 2022.
 
 
 # About Hactoberfest 2022
